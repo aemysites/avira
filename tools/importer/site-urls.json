@@ -1,0 +1,899 @@
+{
+  "originUrl": "https://www.avira.com",
+  "aborted": false,
+  "lastCrawled": "https://www.avira.com/en/sitemap.xml",
+  "urls": [
+    {
+      "url": "https://www.avira.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "655f37e785c9eadfb40cd6ec9e5c3ba02cb4e82a"
+    },
+    {
+      "url": "https://www.avira.com/en/adware-removal",
+      "source": "SITEMAPS",
+      "targetPath": "/en/adware-removal",
+      "id": "4d90a5ccdda404714fbca9dcb83559819e70bda8"
+    },
+    {
+      "url": "https://www.avira.com/en/antivir",
+      "source": "SITEMAPS",
+      "targetPath": "/en/antivir",
+      "id": "25b5f05361041d5591ecf7530828b1bd6ca542a7"
+    },
+    {
+      "url": "https://www.avira.com/en/antivirus-pro",
+      "source": "SITEMAPS",
+      "targetPath": "/en/antivirus-pro",
+      "id": "2976a82f03d8734aeed270ec468480fd79477dfa"
+    },
+    {
+      "url": "https://www.avira.com/en/antivirus-samsung",
+      "source": "SITEMAPS",
+      "targetPath": "/en/antivirus-samsung",
+      "id": "e3987493ea260dc3bcc148355b41f77d29ddf40f"
+    },
+    {
+      "url": "https://www.avira.com/en/archive-end-user-license-agreement",
+      "source": "SITEMAPS",
+      "targetPath": "/en/archive-end-user-license-agreement",
+      "id": "f76f7b5feff55490b3d9f8e78dd975415984b6cf"
+    },
+    {
+      "url": "https://www.avira.com/en/archived-privacy-policies",
+      "source": "SITEMAPS",
+      "targetPath": "/en/archived-privacy-policies",
+      "id": "07ac74336e6b96c418db33835a0e0290cb432182"
+    },
+    {
+      "url": "https://www.avira.com/en/are-vpns-secure",
+      "source": "SITEMAPS",
+      "targetPath": "/en/are-vpns-secure",
+      "id": "3207b64ac8a4e563e5e19381852437687fd81efa"
+    },
+    {
+      "url": "https://www.avira.com/en/av_pro_aff/av-pro-40",
+      "source": "SITEMAPS",
+      "targetPath": "/en/av-pro-aff/av-pro-40",
+      "id": "08f32481b222728dd2046e76362dfe1b41299ae1"
+    },
+    {
+      "url": "https://www.avira.com/en/av_pro_aff/av-pro-40_2y",
+      "source": "SITEMAPS",
+      "targetPath": "/en/av-pro-aff/av-pro-40-2y",
+      "id": "c9a11f40dbff985dd90a0defdf090332c011993b"
+    },
+    {
+      "url": "https://www.avira.com/en/av_pro_aff/av-pro-50",
+      "source": "SITEMAPS",
+      "targetPath": "/en/av-pro-aff/av-pro-50",
+      "id": "ad069b9e295ee93f4d9a6b35ed3a42484ac0b047"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-browser-safety",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-browser-safety",
+      "id": "ec361808ccd300f712fcc7803552528a6a505c66"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-connect",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-connect",
+      "id": "750681b4ec8d57e7f3232238b03c45bf0331f965"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-crypto-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-crypto-terms-and-conditions",
+      "id": "8330fcba551212bddb841a4dee75feb1018cd7d9"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-license-services-agreement",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-license-services-agreement",
+      "id": "9d37dd0e9646aa4c58fc86345d763a5147139aa0"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-protection-cloud",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-protection-cloud",
+      "id": "118727c9c8462a116574c170e17701ac84d9209f"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-secure-browser",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-secure-browser",
+      "id": "04523379f721fbde70c7e5ee4d997c9637799431"
+    },
+    {
+      "url": "https://www.avira.com/en/avira-terms-of-sale",
+      "source": "SITEMAPS",
+      "targetPath": "/en/avira-terms-of-sale",
+      "id": "8ca986e96db5d4f9d47c6e3f3a0884548982afe2"
+    },
+    {
+      "url": "https://www.avira.com/en/battery-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/en/battery-saver",
+      "id": "4fdbebc58c85ceb24ce450e68d3f19d64e6e0884"
+    },
+    {
+      "url": "https://www.avira.com/en/blog",
+      "source": "SITEMAPS",
+      "targetPath": "/en/blog",
+      "id": "fdac91273f3d1307891de5782589f271f15e169d"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/anonymous-browsing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/blog/anonymous-browsing",
+      "id": "4bd0d7a272dac03801e97c1ea0804b31f1b1da28"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/vpn-public-wifi",
+      "source": "SITEMAPS",
+      "targetPath": "/en/blog/vpn-public-wifi",
+      "id": "f7eb4565bd1b9c6dc6c0adf88b0bcf98a5b04857"
+    },
+    {
+      "url": "https://www.avira.com/en/blog/what-is-vpn",
+      "source": "SITEMAPS",
+      "targetPath": "/en/blog/what-is-vpn",
+      "id": "729517079803e1f395b3e9ab518daf305b131962"
+    },
+    {
+      "url": "https://www.avira.com/en/business-prime",
+      "source": "SITEMAPS",
+      "targetPath": "/en/business-prime",
+      "id": "32570b11fb779feabf3018239e1410a7fac28518"
+    },
+    {
+      "url": "https://www.avira.com/en/buy-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/buy-antivirus",
+      "id": "aad4ec6a610fb5b2f9c94d3d2bc819072db560e1"
+    },
+    {
+      "url": "https://www.avira.com/en/change-ip",
+      "source": "SITEMAPS",
+      "targetPath": "/en/change-ip",
+      "id": "e54488e3a7f2bef170bd620d5b1bc79c7286374a"
+    },
+    {
+      "url": "https://www.avira.com/en/company-awards",
+      "source": "SITEMAPS",
+      "targetPath": "/en/company-awards",
+      "id": "8f2899650127b296019369a5091958d3943b0ef8"
+    },
+    {
+      "url": "https://www.avira.com/en/company-contact-directions",
+      "source": "SITEMAPS",
+      "targetPath": "/en/company-contact-directions",
+      "id": "97fe3099d2b9508df55810f036b51f95d5f4fc9a"
+    },
+    {
+      "url": "https://www.avira.com/en/company-contact-directions-avira-romania",
+      "source": "SITEMAPS",
+      "targetPath": "/en/company-contact-directions-avira-romania",
+      "id": "464448194f0ebb7025e6adb446c5b9e808735644"
+    },
+    {
+      "url": "https://www.avira.com/en/contact",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact",
+      "id": "1c6db0f385550c80355b2d2053faa929cb35e73b"
+    },
+    {
+      "url": "https://www.avira.com/en/covid-contact-tracing-app-report",
+      "source": "SITEMAPS",
+      "targetPath": "/en/covid-contact-tracing-app-report",
+      "id": "579300d26bb90011e864cd7781d9a439b9a8f8db"
+    },
+    {
+      "url": "https://www.avira.com/en/digital-millenium-copyright-act-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/en/digital-millenium-copyright-act-policy",
+      "id": "0a28170f9e3b8d0d023485d93eb506af4c422274"
+    },
+    {
+      "url": "https://www.avira.com/en/do-not-sell",
+      "source": "SITEMAPS",
+      "targetPath": "/en/do-not-sell",
+      "id": "12bcdacf855032d4642bb382c392b9a30a66328a"
+    },
+    {
+      "url": "https://www.avira.com/en/downloads",
+      "source": "SITEMAPS",
+      "targetPath": "/en/downloads",
+      "id": "0f46bf1335170078a8e9b5af95a49218073119d6"
+    },
+    {
+      "url": "https://www.avira.com/en/downloads-paid",
+      "source": "SITEMAPS",
+      "targetPath": "/en/downloads-paid",
+      "id": "21e40e8cc921ffd9c5e1bd26286798ac2ccf6995"
+    },
+    {
+      "url": "https://www.avira.com/en/end-user-license-agreement-terms-of-use",
+      "source": "SITEMAPS",
+      "targetPath": "/en/end-user-license-agreement-terms-of-use",
+      "id": "33d47d19c58eea44677029102377f807175c5bf8"
+    },
+    {
+      "url": "https://www.avira.com/en/end-user-license-agreement-terms-of-use-2014",
+      "source": "SITEMAPS",
+      "targetPath": "/en/end-user-license-agreement-terms-of-use-2014",
+      "id": "82f0fd647a36bbdcc5edbe4a2078b54b0c35c292"
+    },
+    {
+      "url": "https://www.avira.com/en/end-user-license-agreement-terms-of-use-2018",
+      "source": "SITEMAPS",
+      "targetPath": "/en/end-user-license-agreement-terms-of-use-2018",
+      "id": "cbbb41d36bb9cc7277019d00911e3e4d12061951"
+    },
+    {
+      "url": "https://www.avira.com/en/end-user-license-agreement-terms-of-use-2021",
+      "source": "SITEMAPS",
+      "targetPath": "/en/end-user-license-agreement-terms-of-use-2021",
+      "id": "5987a4c7922b5ba542b7ab51a47138920e4fd396"
+    },
+    {
+      "url": "https://www.avira.com/en/free-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-antivirus",
+      "id": "4e0ca3a3be27713824d744e475cde13cc0e0d86a"
+    },
+    {
+      "url": "https://www.avira.com/en/free-antivirus-android",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-antivirus-android",
+      "id": "7d307a0e6bb07cfc90ea3c9e92e7c87267f028f3"
+    },
+    {
+      "url": "https://www.avira.com/en/free-antivirus-ios",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-antivirus-ios",
+      "id": "01cc5b312016d3e47417f8383b42576393c4cb04"
+    },
+    {
+      "url": "https://www.avira.com/en/free-antivirus-mac",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-antivirus-mac",
+      "id": "8c9a19be7ddf6bbba78a72cce1b77b57c4434450"
+    },
+    {
+      "url": "https://www.avira.com/en/free-antivirus-windows",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-antivirus-windows",
+      "id": "3022a740760740b5c755da3ce64ebda92dd2e38c"
+    },
+    {
+      "url": "https://www.avira.com/en/free-optimizer",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-optimizer",
+      "id": "f731db7e8568f0e6fd25fe071b51d64c4fa7376b"
+    },
+    {
+      "url": "https://www.avira.com/en/free-security",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-security",
+      "id": "549413d7c5fe9e3dbcfd4e4727f5abb1fa799ed5"
+    },
+    {
+      "url": "https://www.avira.com/en/free-speedup-windows",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-speedup-windows",
+      "id": "40053847e3175db251b7b02dc69f70336a4b4776"
+    },
+    {
+      "url": "https://www.avira.com/en/free-vpn",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-vpn",
+      "id": "0e0e7421fbf6736a59843283e22eb4848fa94be2"
+    },
+    {
+      "url": "https://www.avira.com/en/free-vpn-android",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-vpn-android",
+      "id": "39fed7997751d02a9bdcb8cec6004e223f2969a2"
+    },
+    {
+      "url": "https://www.avira.com/en/free-vpn-ios",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-vpn-ios",
+      "id": "c2896c27467383a739726f02e78b3d7e189988c7"
+    },
+    {
+      "url": "https://www.avira.com/en/free-vpn-mac",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-vpn-mac",
+      "id": "16f52578ede9cde47c0f675547c8c8ef1614a704"
+    },
+    {
+      "url": "https://www.avira.com/en/free-vpn-windows",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-vpn-windows",
+      "id": "85e4e805ae22b5e6ba922da7bedbf8f11fc2ecaf"
+    },
+    {
+      "url": "https://www.avira.com/en/free-windows-10-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-windows-10-antivirus",
+      "id": "2ac987d5f766b80fbd18640c1e422166d3363391"
+    },
+    {
+      "url": "https://www.avira.com/en/free-windows-11-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-windows-11-antivirus",
+      "id": "507ecae5a62afaf583e56213d1f5c732a3b494fd"
+    },
+    {
+      "url": "https://www.avira.com/en/free-windows-7-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-windows-7-antivirus",
+      "id": "8448bc30f3b842ee31999375735381745abecda1"
+    },
+    {
+      "url": "https://www.avira.com/en/free-windows-8-antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/free-windows-8-antivirus",
+      "id": "e7b37d8c5b8d1e8b56c68750eccb842469b421a7"
+    },
+    {
+      "url": "https://www.avira.com/en/general-imprint",
+      "source": "SITEMAPS",
+      "targetPath": "/en/general-imprint",
+      "id": "ebf21fa5d68aa963dbac2c8174766f13e046377c"
+    },
+    {
+      "url": "https://www.avira.com/en/general-privacy-march-2016",
+      "source": "SITEMAPS",
+      "targetPath": "/en/general-privacy-march-2016",
+      "id": "e83b0deb56cf01f1ae588e3faf3da3ebae51177d"
+    },
+    {
+      "url": "https://www.avira.com/en/internet-security",
+      "source": "SITEMAPS",
+      "targetPath": "/en/internet-security",
+      "id": "ae2d771682f1302077e77f7b305581e180dfb4bd"
+    },
+    {
+      "url": "https://www.avira.com/en/itsmig",
+      "source": "SITEMAPS",
+      "targetPath": "/en/itsmig",
+      "id": "07469523b0c245634f47198fed9cdcbfda2b61b5"
+    },
+    {
+      "url": "https://www.avira.com/en/junk-cleaner",
+      "source": "SITEMAPS",
+      "targetPath": "/en/junk-cleaner",
+      "id": "7db5c6b787e810d9187fd2fefe1eaad25912c5c2"
+    },
+    {
+      "url": "https://www.avira.com/en/legal-terms",
+      "source": "SITEMAPS",
+      "targetPath": "/en/legal-terms",
+      "id": "87dd7ccf192a6459dc7ed07a498833d9867c1c94"
+    },
+    {
+      "url": "https://www.avira.com/en/license-agreement-terms-of-use",
+      "source": "SITEMAPS",
+      "targetPath": "/en/license-agreement-terms-of-use",
+      "id": "b882891b31eb10f8dfeedc1bd787363d2fae334a"
+    },
+    {
+      "url": "https://www.avira.com/en/malware-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/en/malware-protection",
+      "id": "f99e2c554162d37e1eb3207a0e4c517942e36ad3"
+    },
+    {
+      "url": "https://www.avira.com/en/media-library",
+      "source": "SITEMAPS",
+      "targetPath": "/en/media-library",
+      "id": "ba181bc0aaa1cd0009687d45c0ca2f94558fe412"
+    },
+    {
+      "url": "https://www.avira.com/en/mobile-security-report",
+      "source": "SITEMAPS",
+      "targetPath": "/en/mobile-security-report",
+      "id": "fd92113d31d5ce42b924342951897dce40d28bc9"
+    },
+    {
+      "url": "https://www.avira.com/en/partner-affiliate",
+      "source": "SITEMAPS",
+      "targetPath": "/en/partner-affiliate",
+      "id": "f9b2d93f5b0814fe6db12f2c8b720c9d792a1174"
+    },
+    {
+      "url": "https://www.avira.com/en/password-manager",
+      "source": "SITEMAPS",
+      "targetPath": "/en/password-manager",
+      "id": "d375b46ba48adf284225f08b667ee4ca972a3075"
+    },
+    {
+      "url": "https://www.avira.com/en/phishing-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/en/phishing-protection",
+      "id": "f764f1bca2df4a666aef611f80315a2ed0f7478b"
+    },
+    {
+      "url": "https://www.avira.com/en/potentially-unwanted-applications",
+      "source": "SITEMAPS",
+      "targetPath": "/en/potentially-unwanted-applications",
+      "id": "ebb80f338adb5dcb994c2f38b4fcb53508d04f12"
+    },
+    {
+      "url": "https://www.avira.com/en/pr-contacts",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pr-contacts",
+      "id": "14f461a798dbd6ec3f656a8f55d5dadc82fbc7b1"
+    },
+    {
+      "url": "https://www.avira.com/en/prime",
+      "source": "SITEMAPS",
+      "targetPath": "/en/prime",
+      "id": "aecfae511e097205ed27d4e0646df87b2ed59e4d"
+    },
+    {
+      "url": "https://www.avira.com/en/prime-mobile-ios",
+      "source": "SITEMAPS",
+      "targetPath": "/en/prime-mobile-ios",
+      "id": "6cd3f78030829fccc75dfb32a9920baea5940dc4"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy",
+      "id": "3815f1f42404d170df375a9074765bd49b4855b8"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/contact",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/contact",
+      "id": "5a32a7ea3a0fdae9add21eb9ef2e83f230e6e003"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/cookies",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/cookies",
+      "id": "b25d2da1464f111f088c7a69188551a68c6fb37c"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/data-processing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/data-processing",
+      "id": "20467eebd837ece52aba763fa8c70b3a8beceb61"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/glossary",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/glossary",
+      "id": "f4345b828aa3b26f604c88811dd30a5b1b01810d"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/homepage",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/homepage",
+      "id": "0c1f188daa6e4a602a859c0c8ad16249bef01ed9"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/joint-responsability",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/joint-responsability",
+      "id": "9185a9a83dc1c9d31c9f3752d14f9fcaab03672d"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/oem",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/oem",
+      "id": "a33a82ed031a4267d28a7807d2fd6fb4eb42f265"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/product",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/product",
+      "id": "4f62f3f2de9e2e357798b1639006b18e0473adc9"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/rights-of-the-data-subject",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/rights-of-the-data-subject",
+      "id": "683b635a8b2cca8b7b147f5b900d423ff119c19f"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-policy/website-shop-account",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-policy/website-shop-account",
+      "id": "4c243e5599bbbc426a076b1b7e6a740b8eb0ba51"
+    },
+    {
+      "url": "https://www.avira.com/en/privacy-quiz",
+      "source": "SITEMAPS",
+      "targetPath": "/en/privacy-quiz",
+      "id": "dbe339805d306de479d7828337c8218ba04a1a98"
+    },
+    {
+      "url": "https://www.avira.com/en/pua-reconsideration-form",
+      "source": "SITEMAPS",
+      "targetPath": "/en/pua-reconsideration-form",
+      "id": "67243931abc0b8169cb7d61c21b0cf04aee8bf4b"
+    },
+    {
+      "url": "https://www.avira.com/en/ram-cleaner",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ram-cleaner",
+      "id": "533128e1f6603fba7da947751f5a381059f0d5c1"
+    },
+    {
+      "url": "https://www.avira.com/en/ransomware-protection",
+      "source": "SITEMAPS",
+      "targetPath": "/en/ransomware-protection",
+      "id": "234c5f3ebedcecb4a780a97a6a23b311888b6117"
+    },
+    {
+      "url": "https://www.avira.com/en/right-withdrawal",
+      "source": "SITEMAPS",
+      "targetPath": "/en/right-withdrawal",
+      "id": "4fc703e6d1a46a9a78154b955f66ffaeff1b0d43"
+    },
+    {
+      "url": "https://www.avira.com/en/safe-shopping",
+      "source": "SITEMAPS",
+      "targetPath": "/en/safe-shopping",
+      "id": "ec17da955b03d2498a702f5f8435ffb6dd59b1b6"
+    },
+    {
+      "url": "https://www.avira.com/en/security-pro-android",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-pro-android",
+      "id": "22e06b3eba34ddaecdd6d33d9c07755eec63ff3a"
+    },
+    {
+      "url": "https://www.avira.com/en/security-pro-ios",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-pro-ios",
+      "id": "3cf1a2cc83e17129be00f18ae006f396a8e46f53"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook",
+      "id": "e4c6aa552541eecdbb60077f85867891b17cffcb"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/advanced-persistent-threat",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/advanced-persistent-threat",
+      "id": "818d0cb463ce84e4c500f6e990816ed8022d4d5d"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/adware",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/adware",
+      "id": "09bf8d5e7f5acca0f2801ff6165992eb5b7f7470"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/aes-256-bit-encryption",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/aes-256-bit-encryption",
+      "id": "b6b6baad996a438d090f444bebc3661c44c4c7c6"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/botnet",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/botnet",
+      "id": "5b42e63600230ff5c1f4c3300d5ab0337cefcc5d"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/browser-hijacking",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/browser-hijacking",
+      "id": "5446b0405cc0470bfeced3612045558eba8be936"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/browser-trackers",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/browser-trackers",
+      "id": "e21fd13d4730fb13250a2288c786b589e2d9590a"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/clickjacking",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/clickjacking",
+      "id": "b93a6b2b185b9e1b40bd322c50daf36c59482ccc"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/cookies",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/cookies",
+      "id": "f5075a269cc0310b847ad1d9192d0a785aec9ac9"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/denial-of-service-attack",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/denial-of-service-attack",
+      "id": "e7754b0b63a1bf638c41ec9f6763fab0fbdd381b"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/drive-by-download",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/drive-by-download",
+      "id": "de0363438be8842906479907d794ed34771e4801"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/email-spoofing",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/email-spoofing",
+      "id": "9a6815331cb4e192be0faf0bb3128a093243b541"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/exploit",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/exploit",
+      "id": "2e29a7ff984f302b97d18d2297f84733a15edf8f"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/firewall",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/firewall",
+      "id": "502a445f91547222bf4e5aa4cb69e1ffd0facfc3"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/hacker",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/hacker",
+      "id": "1a802c6936d0d4b42bce7426872e71980684fc3d"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/identity-theft",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/identity-theft",
+      "id": "b34d161bc74365d7ffb3b44da8f9e8def9d87c71"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/in-the-cloud-detection",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/in-the-cloud-detection",
+      "id": "ce38e7494dea43ec94ce7a370dc9495e8328cac6"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/internet-service-providers-isps-",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/internet-service-providers-isps",
+      "id": "c1fc8fc7de249e767b6fe60daf20da174a9897df"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/ipsec",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/ipsec",
+      "id": "721f5aa85532f614d3cc533f7ba506e67fa320dc"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/keylogger",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/keylogger",
+      "id": "55f574f557127a8939d49a97fd8cce55c9361d6e"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/kill-switch",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/kill-switch",
+      "id": "8e2f79e5d6b533b0a61e881eacc4876372af5d15"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/malware",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/malware",
+      "id": "73c40d2b93a860dce2eab9f2b9ec288db584ee06"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/man-in-the-middle-attacks",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/man-in-the-middle-attacks",
+      "id": "d645788df33819132f22c09a6c72fea0f381e102"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/phishing-attack",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/phishing-attack",
+      "id": "e47fc75b1c2513544b71bc4d0b9c6515c13db542"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/potentially-unwanted-application-pua-",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/potentially-unwanted-application-pua",
+      "id": "3ff4ef898ee03d5a69872e6dc83e94f41a7507d7"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/ransomware",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/ransomware",
+      "id": "d5fd23ca5205311c44b4f7dfe09b3ecb624644f0"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/rootkit",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/rootkit",
+      "id": "7fd86e9f6b16e88e710261b74881f464ced42f49"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/scam",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/scam",
+      "id": "617b226d8fbc07e60c489df037c35065c7a1060e"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/security-breach",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/security-breach",
+      "id": "b59da32f902fd4144823d40347e89d4a3064c6f6"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/smart-home",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/smart-home",
+      "id": "069f93d2c77c99cbca36bb2259a19c386a600ffe"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/social-engineering-attacks",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/social-engineering-attacks",
+      "id": "30f87dd11e9db6cdb44522032b625d4c4900857b"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/spam",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/spam",
+      "id": "230ff0cfac6dec7d91ce88c3d2bdd1147ab570fd"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/spyware",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/spyware",
+      "id": "208c84438675e2d4396d36108b25f098c02fdcfe"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/sql-injection",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/sql-injection",
+      "id": "5f961042ffb281687ee60cd6d6c1edd960bf11ce"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/trojan",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/trojan",
+      "id": "cab0c3259e4a2312220c39404c9f07c3aa984150"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/virus",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/virus",
+      "id": "6534cfef27dfacb306c188bd82e47e21c9793aed"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/vpn",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/vpn",
+      "id": "71f6e8cd91fdec6b7e9fafaa6614cef13517d88b"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/web-anonymity",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/web-anonymity",
+      "id": "ff0a11e0993801ab27ac61c2e5f5b575dabb147a"
+    },
+    {
+      "url": "https://www.avira.com/en/security-wordbook/worm",
+      "source": "SITEMAPS",
+      "targetPath": "/en/security-wordbook/worm",
+      "id": "54b1d0c257e6df8f58d8a9c596d6b12c9d6b8a6b"
+    },
+    {
+      "url": "https://www.avira.com/en/software-updater",
+      "source": "SITEMAPS",
+      "targetPath": "/en/software-updater",
+      "id": "ce5a291c2c4aef5cc5baa5df028e89b95cd6c98a"
+    },
+    {
+      "url": "https://www.avira.com/en/speed-booster",
+      "source": "SITEMAPS",
+      "targetPath": "/en/speed-booster",
+      "id": "18eb1766e0ce3743f49daa08584acf5d7764f521"
+    },
+    {
+      "url": "https://www.avira.com/en/speedup-pro",
+      "source": "SITEMAPS",
+      "targetPath": "/en/speedup-pro",
+      "id": "00c2fdfb270eb5d7881ff7472aade8b6301cdcfc"
+    },
+    {
+      "url": "https://www.avira.com/en/spyware-detector",
+      "source": "SITEMAPS",
+      "targetPath": "/en/spyware-detector",
+      "id": "cb4cd42aa94b9a130ef7d8b9fb96844ba0363c65"
+    },
+    {
+      "url": "https://www.avira.com/en/standard-terms-conditions-business",
+      "source": "SITEMAPS",
+      "targetPath": "/en/standard-terms-conditions-business",
+      "id": "c6dd773b66ed481e0d3d5520f84bdc02e4a58d52"
+    },
+    {
+      "url": "https://www.avira.com/en/standard-terms-conditions-business-us",
+      "source": "SITEMAPS",
+      "targetPath": "/en/standard-terms-conditions-business-us",
+      "id": "131113d11bb46a4bac87d85abfd61335d4255367"
+    },
+    {
+      "url": "https://www.avira.com/en/subscription-faq",
+      "source": "SITEMAPS",
+      "targetPath": "/en/subscription-faq",
+      "id": "ed6c681a405decee00546852a1a0bfe36f0ddc5b"
+    },
+    {
+      "url": "https://www.avira.com/en/support-product-lifecycle",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-product-lifecycle",
+      "id": "058c14c28707dbacfc2c796950727c9433180397"
+    },
+    {
+      "url": "https://www.avira.com/en/support-product-lifecycle-archive",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-product-lifecycle-archive",
+      "id": "fe55afd69ff218dda85c3c2d2263ba12b9b72c94"
+    },
+    {
+      "url": "https://www.avira.com/en/support-product-lifecycle-archive-oem",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-product-lifecycle-archive-oem",
+      "id": "b2363914e0bd5a65f2daa87c9acba86fc1822d3a"
+    },
+    {
+      "url": "https://www.avira.com/en/support-product-lifecycle-oem",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-product-lifecycle-oem",
+      "id": "d645e028dce8ef292e832ecffa1c7d11ff9d4eeb"
+    },
+    {
+      "url": "https://www.avira.com/en/support-vdf-update-info",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-vdf-update-info",
+      "id": "0e44cfe8c1c8e0e923eb8440cf760923875b95dc"
+    },
+    {
+      "url": "https://www.avira.com/en/support-virus-lab",
+      "source": "SITEMAPS",
+      "targetPath": "/en/support-virus-lab",
+      "id": "3e19879cedc900f5e06df9628663c970eb71101b"
+    },
+    {
+      "url": "https://www.avira.com/en/threat-landscape",
+      "source": "SITEMAPS",
+      "targetPath": "/en/threat-landscape",
+      "id": "73dff857195723f2fced7f7d74f1dc35066919fc"
+    },
+    {
+      "url": "https://www.avira.com/en/vpn-pro",
+      "source": "SITEMAPS",
+      "targetPath": "/en/vpn-pro",
+      "id": "f5c8ac99f4ba4d8b140d448898160b1aa414d8a2"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 400,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
